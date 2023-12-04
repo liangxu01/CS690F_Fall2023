@@ -1,0 +1,502 @@
+[
+    {
+        "attractiveness": 0.4425924651215838,
+        "polarity": 0.9129709466070088,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5184245803650688,
+        "polarity": 0.5332760374782025,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.4754401350302658,
+        "polarity": 0.6767245300994721,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.38277693291446413,
+        "polarity": 0.8173865929042913,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.4535738936186789,
+        "polarity": 0.9248144247708336,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.4726379282044505,
+        "polarity": 0.5248191095840327,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5589375750563104,
+        "polarity": 0.5943621288119085,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.6231068724975427,
+        "polarity": 0.9047551637082608,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.48317499829533783,
+        "polarity": 0.6932895221773521,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5122895417162893,
+        "polarity": 0.685486454625096,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.43582006538392676,
+        "polarity": 0.7913441838728512,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5166177336261784,
+        "polarity": 0.7708469569265333,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.4299406232419164,
+        "polarity": 0.7076788019265349,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5683365168064334,
+        "polarity": 0.698501461501295,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5781278725866381,
+        "polarity": 0.9642456785293254,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5764365177886343,
+        "polarity": 0.7006297244909544,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5546439064318172,
+        "polarity": 0.9441256614621673,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5717724558508441,
+        "polarity": 0.636085970602369,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.4673795185730041,
+        "polarity": 0.9256636663257692,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5505129799725451,
+        "polarity": 0.6541364251615082,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5340800424572815,
+        "polarity": 0.8596352665200537,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.43756913865518826,
+        "polarity": 0.8484375960917683,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.4693875489965276,
+        "polarity": 0.9802033094756565,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.6491262098935563,
+        "polarity": 0.5289113687583029,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.600122403484942,
+        "polarity": 0.6854822496721467,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5375165125688111,
+        "polarity": 0.6505033038424007,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.6599826798682414,
+        "polarity": 0.715858404300155,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5602104837909835,
+        "polarity": 0.8591821668861293,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.4625111968601743,
+        "polarity": 0.8926975683817856,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.45670560238664315,
+        "polarity": 0.5261218212500961,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5986798695613826,
+        "polarity": 0.7810011859006711,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.49199866088085764,
+        "polarity": 0.8072490939872918,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.509808642987335,
+        "polarity": 0.6804725038231214,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5081865527388467,
+        "polarity": 0.8276359500283894,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5335263239744175,
+        "polarity": 0.8274764923829031,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5984062761483433,
+        "polarity": 0.8723178199823172,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5779927490191135,
+        "polarity": 0.6856229722717467,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.30129472183557965,
+        "polarity": 0.6847468704069162,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5252327463013159,
+        "polarity": 0.7949828673409007,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.49913940795582357,
+        "polarity": 0.5870201841404716,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.6064195351606743,
+        "polarity": 0.6268062058131809,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.45976357496649634,
+        "polarity": 0.7166390307495909,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5170132244058413,
+        "polarity": 0.6119718916653676,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.4395750469429456,
+        "polarity": 0.6615668329895557,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5842652073051343,
+        "polarity": 0.8845566024950293,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5158954152749645,
+        "polarity": 0.521870567808508,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.3648360852506704,
+        "polarity": 0.6816820236609833,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.46775764727828356,
+        "polarity": 0.5717591175129293,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.4317910822333315,
+        "polarity": 0.6360161796952128,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.4531066883178139,
+        "polarity": 0.6220966999732658,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.4808968667595712,
+        "polarity": 0.7720409114846336,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.48848419534640314,
+        "polarity": 0.7298116762627346,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.48811687012179295,
+        "polarity": 0.9532498275261612,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.34078173232815134,
+        "polarity": 0.7676350864262006,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.6192961545716513,
+        "polarity": 0.9557915882498226,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.4017466762166464,
+        "polarity": 0.7718923332701582,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.46792513192331536,
+        "polarity": 0.5222690493412825,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5210618976739338,
+        "polarity": 0.8527193821545702,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.43257433589448185,
+        "polarity": 0.8931159100710404,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.49543152742067476,
+        "polarity": 0.7801294125079108,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5847942468245162,
+        "polarity": 0.9796466463608685,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.3686159091384579,
+        "polarity": 0.9321519233131584,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5248585047239175,
+        "polarity": 0.7689955214459071,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.46859567926155665,
+        "polarity": 0.9816109694183834,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.4205322404668673,
+        "polarity": 0.6199996356114197,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5453824211990022,
+        "polarity": 0.6240230748180309,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.4570359040088381,
+        "polarity": 0.828899666477444,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.6871732478866088,
+        "polarity": 0.8299021891430691,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.4518332161825886,
+        "polarity": 0.8389146994680974,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5938429589098226,
+        "polarity": 0.7925907605186899,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.39771629594167446,
+        "polarity": 0.9357343255674957,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.4005540215981604,
+        "polarity": 0.931327110660513,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5989048845525959,
+        "polarity": 0.8672178225278233,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.518402181652101,
+        "polarity": 0.5311907290371614,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.36520158498932703,
+        "polarity": 0.8738774260165653,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.4417491925350282,
+        "polarity": 0.751206463847899,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5026841177683331,
+        "polarity": 0.557559411901269,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.45350563559463775,
+        "polarity": 0.7643821894521765,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.6327469818317656,
+        "polarity": 0.9980886048628042,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5172743124282132,
+        "polarity": 0.9299460972053926,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.502800345320229,
+        "polarity": 0.6731033989611038,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5520460369326416,
+        "polarity": 0.8770072382242073,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.3892111602719628,
+        "polarity": 0.8204619954859351,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5147653290391441,
+        "polarity": 0.6119077135732167,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.38302409551377625,
+        "polarity": 0.8269896375550294,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.5629484986074347,
+        "polarity": 0.8589141981448344,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.4753050579622367,
+        "polarity": 0.9614860795082516,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.41177407799388444,
+        "polarity": 0.7250651314951726,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.38550609502174277,
+        "polarity": 0.6947541971879185,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.43616397594485457,
+        "polarity": 0.9870276444453435,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.3439368240005614,
+        "polarity": 0.6852290252182378,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.39474432561073036,
+        "polarity": 0.7630157704298448,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.4685533556630731,
+        "polarity": 0.7889709377183081,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5696819765623717,
+        "polarity": 0.9615412573596703,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.6142059211200498,
+        "polarity": 0.5706820636787726,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5522359818036431,
+        "polarity": 0.6915956090127766,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.4622629317242799,
+        "polarity": 0.817433528781237,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.5222049901610923,
+        "polarity": 0.8445455422299999,
+        "political_inclination": 1
+    },
+    {
+        "attractiveness": 0.4790366947614994,
+        "polarity": 0.7609053281455569,
+        "political_inclination": -1
+    },
+    {
+        "attractiveness": 0.4154443736409297,
+        "polarity": 0.9108086254664408,
+        "political_inclination": 1
+    }
+]
