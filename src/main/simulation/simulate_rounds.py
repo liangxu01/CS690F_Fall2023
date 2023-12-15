@@ -10,6 +10,8 @@ def roundsSimulator(nodeGraph, articleList, samplers):
     p_list = []
     polIncGetter, weightageCongruentGetter, weightageNonCongruentGetter, thresholdAlphaGetter = getStaticAttributeGetters(nodeGraph)
     activationDynamicsStats = []
+    P_r=consts.GLOBAL_RECOMMENDER
+    sigma=consts.SIGMA
     for index, article in enumerate(articleList):
         if index % 50 == 0:
             print("[SIMULATION-INFO]: Spreading Article ", index, " of ", len(articleList))
@@ -46,6 +48,7 @@ def roundsSimulator(nodeGraph, articleList, samplers):
 
                 # start of calculating P_n 
                 P_n = calculate_p_n_mode_1(activationStateGetter, nodeGraphRound, nodeIndex, polIncGetter, weightageCongruentGetter, weightageNonCongruentGetter)
+                P_n=(1-sigma)*P_n
                 # end of calculating P_n
                 p_n_avg += P_n
                 # start of calculating P_p
@@ -53,8 +56,18 @@ def roundsSimulator(nodeGraph, articleList, samplers):
                 # end of calculating P_p
                 p_p_avg += P_p
 
+                P_r=sigma*P_r
+
                 p_list.append([P_a, P_p, P_n])
-             
+
+                 if  random.random() < P_r and random.random() < (article_polarity*P_a) and article["political_inclination"] == polIncGetter[nodeIndex]:
+                    nx.set_node_attributes(nodeGraphRound, {nodeIndex : True}, 'activated')
+                    newActivations += 1
+                    numberOfActivations += 1
+
+                if activationStateGetter[nodeIndex] == True:
+                    # the node is already activated
+                    continue  
 
                 if P_a * P_n * P_p > thresholdAlphaGetter[nodeIndex]:
                     nx.set_node_attributes(nodeGraphRound, {nodeIndex : True}, 'activated')
