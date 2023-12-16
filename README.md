@@ -1,5 +1,7 @@
-The repo for the final Project for 690.
+# Impact of Content Personalization Algorithms in Social Media
+This repository is for the final Project for COMPSCI 690F. Our work focusses on how the implementation of a global recommender model affects polarization in a simulation of a social network.
 
+## Running the prerequisites
 Please do the following to be able to run our code.
 
 1. Switch to the graphviz branch
@@ -10,7 +12,7 @@ Please do the following to be able to run our code.
 3. Set python path for successful imports
 `export PYTHONPATH='.'`
 
-# Running the simulation
+## Running the simulation
 As of now, creating a network with a configurable set of parameters is done. The actual simulation needs to be done. Run the following to create the network.
 
 To run the threshold model, use 
