@@ -56,11 +56,14 @@ def roundsSimulator(nodeGraph, articleList, samplers):
                 # end of calculating P_p
                 p_p_avg += P_p
 
+                beta=random.random()
+
                 P_r=sigma*P_r
 
                 p_list.append([P_a, P_p, P_n])
 
-                 if  random.random() < P_r and random.random() < (article_polarity*P_a) and article["political_inclination"] == polIncGetter[nodeIndex]:
+                #Activation function for Recommender Function
+                if  random.random() < P_r and  beta< (article_polarity*P_a) and article["political_inclination"] == polIncGetter[nodeIndex]:
                     nx.set_node_attributes(nodeGraphRound, {nodeIndex : True}, 'activated')
                     newActivations += 1
                     numberOfActivations += 1
@@ -69,6 +72,7 @@ def roundsSimulator(nodeGraph, articleList, samplers):
                     # the node is already activated
                     continue  
 
+                #Activation function for Social Influence
                 if P_a * P_n * P_p > thresholdAlphaGetter[nodeIndex]:
                     nx.set_node_attributes(nodeGraphRound, {nodeIndex : True}, 'activated')
                     newActivations += 1
