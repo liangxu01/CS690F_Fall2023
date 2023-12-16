@@ -1,5 +1,5 @@
 # Impact of Content Personalization Algorithms in Social Media
-This repository is for the final Project for COMPSCI 690F. Our work focusses on how the implementation of a global recommender model affects polarization in a simulation of a social network.
+This repository is for the final Project of COMPSCI 690F. Our work focusses on how the implementation of a global recommender model affects polarization in a simulation of a social network.
 
 ## Running the prerequisites
 Please do the following to be able to run our code.
